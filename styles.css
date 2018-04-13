@@ -1,0 +1,19 @@
+.contactImage{
+	width:70px;
+	height: 70px;
+	
+}
+
+.container, .contactItem {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.contactItem {
+	padding: 10px 0px;
+	flex: 1 100%;
+}
+
+.contactEmail{
+
+}
